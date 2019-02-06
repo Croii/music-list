@@ -1,0 +1,79 @@
+@import url(https://fonts.googleapis.com/css?family=Changa+One&effect=anaglyph);
+	.font-effect-anaglyph {
+		font-family: 'Changa One', cursive;
+		font-size: 50px;
+		text-align: center;
+		letter-spacing: 3px;
+		color: rgba(33, 64, 83, 0.9);
+	}
+	.font-effect-neon
+	{
+		font-size: 100px;
+		font-family:'Major Mono Display', monospace ;
+	}
+	.arrow-up1
+	{
+    width: 50px;
+    position: relative;
+    top: -57px;
+    left: 500px;
+}
+
+		.arrow-up
+	{
+    width: 50px;
+    position: relative;
+    top: -57px;
+    left: 799px;	
+}
+.stileto
+{
+	font-size:5em;
+font-family: 'anaglyph', monospace;
+margin-top:0; 
+margin-bottom: 0;
+border-top: 0;
+border-bottom:1;
+}
+#lil
+{
+font-size:40px;
+font-family:'Major Mono Display', monospace;
+}
+footer p{
+	font-family: 'Roboto', sans-serif;
+font-size:20px;
+
+	color: #2E3030;
+text-align: center;
+
+}
+footer
+{
+background-color:rgba(231, 231, 231, 0.44);
+	
+	padding: 10px;
+	border-radius:10px;
+	margin: 20px -8px -30px -8px;
+
+}
+.music-text
+{
+    font-family: 'Major Mono Display', monospace;
+    text-align: center;
+    padding: 109px;
+    font-size: 24px;
+    text-shadow: 2px 2px rgb(13, 31, 123);
+    background-color: rgba(231, 231, 231, 0.44);
+    padding: 11px;
+    border-radius: 10px;
+    margin: 17px 350px;
+}
+.video
+{
+border:9px dashed;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius:10px;
+}
